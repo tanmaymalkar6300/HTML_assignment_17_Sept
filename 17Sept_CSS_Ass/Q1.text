@@ -1,0 +1,25 @@
+HTML5 introduced numerous features and improvements over its predecessors. Here's a list of some key features:
+
+1. Semantic Elements: HTML5 introduced new semantic elements like `<header>`, `<footer>`, `<nav>`, `<article>`, `<section>`, etc., which provide better structure to web pages and improve accessibility.
+
+2. Audio and Video Support: HTML5 includes built-in support for audio and video playback without the need for third-party plugins like Flash. It introduced `<audio>` and `<video>` elements for embedding media content directly into web pages.
+
+3. Canvas: HTML5 Canvas API allows for dynamic, scriptable rendering of 2D shapes and bitmap images. It's commonly used for creating animations, games, data visualizations, and other interactive content.
+
+4. SVG Support: HTML5 provides native support for Scalable Vector Graphics (SVG), allowing developers to create vector-based graphics and animations directly within the HTML document.
+
+5. Form Enhancements: HTML5 introduced several enhancements to web forms, including new input types (`<input type="date">`, `<input type="email">`, `<input type="tel">`, etc.), attributes (`required`, `placeholder`, `autocomplete`, etc.), and form validation APIs, making it easier to create robust and user-friendly forms.
+
+6. Geolocation API: HTML5 includes a Geolocation API that allows web applications to access the user's geographical location. This enables location-based services and applications such as maps, weather forecasts, and location-aware content.
+
+7. Web Storage: HTML5 introduced two new mechanisms for client-side data storage: `localStorage` and `sessionStorage`. These APIs allow web applications to store data locally on the user's device, improving performance and enabling offline access.
+
+8. Web Workers: HTML5 introduced Web Workers, which allow web applications to run scripts in background threads, improving performance by offloading tasks that don't require user interaction to separate threads.
+
+9. WebSockets: HTML5 includes native support for WebSockets, a communication protocol that enables bidirectional communication between the client and the server over a single, long-lived TCP connection. This facilitates real-time, interactive web applications such as chat applications and online gaming.
+
+10. Offline Application Cache: HTML5 introduced the Application Cache (AppCache) API, which allows web applications to specify which files should be cached locally, enabling offline access to web pages and improving performance by reducing server load.
+
+11. Drag and Drop: HTML5 includes native support for drag and drop interactions, allowing users to drag elements on a web page and drop them onto designated drop zones. This feature simplifies tasks like file uploads and reordering items in lists.
+
+These are just some of the key features introduced in HTML5.
